@@ -1,13 +1,6 @@
 # Subjective-Answer-Evaluator
 
-*This project presents a subjective answer evaluation system designed to assess the quality and correctness of subjective answers provided by individuals. The system employs a combination of natural language processing techniques and machine learning algorithms to analyze and evaluate the content, coherence, and relevance of the answers. The system's performance is evaluated using a set of parameters such as grammar factor, spell-check, keyword accuracy and similarity factor.*
 
-### Team Members
-
-* Sidhya Jain - [@sidhya3112](https://www.github.com/sidhya3112)
-* Ananya Pawar - [@ananya-2311](https://www.github.com/ananya-2311)
-* Tejas Shinde - [@Tejas8101](https://www.github.com/Tejas8101)
-* Surabhi Chandane - [@surabhi175](https://www.github.com/surabhi175)
   
 ### Key Features
 
